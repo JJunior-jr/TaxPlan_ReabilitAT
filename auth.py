@@ -7,4 +7,4 @@ def create_user(nome, senha, tipo_usuario):
 def verify_user(nome, senha):
 
 
-# Lógica para verificar o usuário e a senha no banco de dados
+        # Lógica para verificar o usuário e a senha no banco de dados

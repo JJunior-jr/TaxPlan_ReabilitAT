@@ -1,0 +1,12 @@
+# Ignorar arquivos de ambiente
+.env
+.venv
+
+
+# Ignorar arquivos compilados
+*.pyc
+__pycache__/
+
+# Ignorar pastas de configuração
+.vscode/
+.idea/
